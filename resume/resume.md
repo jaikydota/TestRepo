@@ -23,16 +23,18 @@
 
 **微信号**：jaikydota
 
+**期待薪资**：税前月薪20k，特别喜欢的公司可例外
+
 **Email**：[jaikydota@163.com](mailto:jaikydota@163.com)
 
 
 ## 自我简介
 
-能独立开发中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端开发等。
+能独立开发完成中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端开发等。
 
 2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit。精通Android项目开发模式，如MVP和MVVM。
 
-拥有超强的学习能力和较强的团队合作能力，熟悉多种编程语言，按精通程度：Android, Java, Java Web, C#, .NET, U3D, C/C++, 前端等。
+拥有超强的学习能力和较强的团队合作能力，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java, Java Web, C#, .NET, U3D, C/C++, 前端等。
 
 富有极客精神，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR开发相关技术：http://blog.csdn.net/column/details/13430.html
 
@@ -40,13 +42,8 @@
 ## 工作履历
 * 2014年10月-2016年11月 北京禾田雨橡互联网科技有限公司
 * 任职：移动开发部副总监（目前已离职）
-* 职责：负责“世界大学城”手机客户端的研发维护及功能迭代，另负责Android端的开发任务和PC客户端的开发任务。
+* 职责：负责“世界大学城”手机客户端的研发、维护及功能迭代，另负责“世界大学城”PC客户端的开发任务。
 
-## 技术能力
-
-* 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
-* 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验（BackboneJS | KnockoutJS | Angular）。
-* 熟练掌握NodeJS相关开发。
 
 ## 项目履历
 
@@ -75,40 +72,12 @@ Virtual-DOM 算法的一个实现。
 
 小型类库，用于解决同浏览器中不同tabs之间的通信问题。
 
-#### [tween-scroller](https://github.com/livoras/tween-scroller)
-项目地址：https://github.com/livoras/tween-scroller
-
-也是创业项目衍生物，jQuery动画插件，使用CoffeeScript编写，用来在浏览器端实现手机一样滚动回弹动画效果。可见[demo](http://sysumiac.github.io/homework2013/)。
-
-#### [easydict](https://github.com/livoras/easydict)
-项目地址：https://github.com/livoras/easydict
-
-使用Python编写的一个Linux英文单词取词翻译的应用。
-
-#### [blog](https://github.com/livoras/blog)
-项目地址：https://github.com/livoras/blog
-
-个人博客源码。
-
-#### [RageJS (deprecated)](https://github.com/livoras/ragejs)
-项目地址：https://github.com/livoras/ragejs
-
-前端MVVM框架，特点是所有feature进行widget化，用于开发类似桌面软件的SPA。大二的时候写，但已经没有维护。
-
-#### [CobiaJS (deprecated)](https://github.com/livoras/cobiajs)
-项目地址：https://github.com/livoras/cobiajs
-
-前端模块加载器，大二阅读SeaJS源码以后的心血来潮之作。
-
-
-#### [Shooting Chicken](https://github.com/livoras/shooting-chicken)
-项目地址：https://github.com/livoras/shooting-chicken
-
-一款手机端的HTML5游戏。
 
 ## 个人经历
-* 2011年进入中山大学软件学院学习。
-* 大一接触Web，并且专注前端，热血编程至今。
-* 大二曾在创业项目中担任前端工程师和Team Leader角色。
-* 担任中山大学现代互联网应用俱乐部主席。
-* 2015~2016 腾讯微信Web前端工程师。
+* 2013年5月-2013年10月：做为队长带队参与“移动互联技术应用开发大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。[获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E6%99%BA%E8%83%BD%E5%AE%89%E9%98%B2%E8%8E%B7%E5%A5%96.jpg)
+* 2014年6月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录[获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/ACM.JPG)。
+* 2014年10月-2015年4月：学校内推入职北京“世界大学城”，因在移动开发上能力突出，主动承担了“世界大学城”手机客户端的研发任务，作为主程进行“舍生忘死”的数月开发，最后项目开发十分成功，入职4月便被公司破格提拔为移动开发部副总监。
+* 2014年12月：学分绩点位列全系第一，荣获国家奖学金[获奖图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91.jpg)。
+* 2015年9月：因成绩优异，被保送至吉首大学读本，又因为家庭的原因，便提出辞职深造。
+* 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代，后面又让我新PC客户端的研发任务，半工就读。
+* 2016年11月，本科实习期到了！可以叫我实习生，但我有不输于任何Android开发人员的研发能力！（目前暂未毕业，本科毕业生需要到2017年6月，学历“学信网”可查）[学历图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E5%AD%A6%E4%BF%A1%E7%BD%91.png)
