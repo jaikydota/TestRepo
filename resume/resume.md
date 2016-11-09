@@ -1,12 +1,12 @@
-# 说明
+# 欧杰的个人简历
 
 <img src="https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png" width = "160" height = "160" alt="信息" align=center />
 
 欧杰的个人简历。
 
 
-- 博客地址：http://blog.csdn.net/jaikydota163 （获CSDN认证博客专家）
-- Github：https://github.com/jaikydota （偶尔发布一些开源项目）
+- 博客地址：http://blog.csdn.net/jaikydota163 （因发布原创高质量blog获CSDN认证“博客专家”）
+- Github：https://github.com/jaikydota （热爱生活，热爱开源，star有限）
 
 ## 个人信息
 
@@ -24,14 +24,10 @@
 
 **Email**：[jaikydota@163.com](mailto:jaikydota@163.com)
 
-**博客**：http://blog.csdn.net/jaikydota163
-
-**github**：https://github.com/jaikydota
-
 
 ## 自我简介
 
-曾在创业团队当中担任Team Leader以及前端架构师。有大型SPA架构经验（4万行CoffeeScript），对前端框架、开发模式、架构有丰富的经验和独特见解。
+能独立开发中大型安卓APP项目，曾在创业团队当中担任Team Leader以及前端架构师。有大型SPA架构经验（4万行CoffeeScript），对前端框架、开发模式、架构有丰富的经验和独特见解。
 
 有4年Web开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个Web Application。能独立开发一个前端框架，并且热衷于开源项目。
 
