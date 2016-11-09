@@ -5,20 +5,21 @@
 欧杰的个人简历。
 
 - 博客地址：http://blog.csdn.net/jaikydota163 （因发布原创高质量blog获CSDN认证“博客专家”）
-- Github：https://github.com/jaikydota （热爱生活，热爱开源，star有限）
-<a href="https://baidu.com" target="_blank">百度</a>
+- Github：https://github.com/jaikydota （热爱生活，热爱开源）
 
 ## 个人信息
 
 **姓名**：欧杰
 
-**性别**：男  
+**其他信息**：男/1993
 
-**出生年月**: 1993年12月22日
+**工作年限**: 2年
 
 **家庭住址**： 广东-中山
 
-**学校专业**： 吉首大学软件工程
+**学校专业**： 本科/吉首大学软件工程
+
+**手机**：15574964715
 
 **微信号**：jaikydota
 
@@ -38,13 +39,6 @@
 * 专注并热爱于Web前端开发，熟练掌握JavaScript、CSS、HTML以及各种JS、CSS框架来搭建一个Web应用
 * 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验（BackboneJS | KnockoutJS | Angular）。
 * 熟练掌握NodeJS相关开发。
-
-## 个人经历
-* 2011年进入中山大学软件学院学习。
-* 大一接触Web，并且专注前端，热血编程至今。
-* 大二曾在创业项目中担任前端工程师和Team Leader角色。
-* 担任中山大学现代互联网应用俱乐部主席。
-* 2015~2016 腾讯微信Web前端工程师。
 
 ## 作品
 
@@ -104,5 +98,9 @@ Virtual-DOM 算法的一个实现。
 
 一款手机端的HTML5游戏。
 
-## License
-MIT License
+## 个人经历
+* 2011年进入中山大学软件学院学习。
+* 大一接触Web，并且专注前端，热血编程至今。
+* 大二曾在创业项目中担任前端工程师和Team Leader角色。
+* 担任中山大学现代互联网应用俱乐部主席。
+* 2015~2016 腾讯微信Web前端工程师。
