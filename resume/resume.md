@@ -1,6 +1,8 @@
-个人简历
-======================
-欧杰的个人简历
+# 说明
+
+![img](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png)
+
+欧杰的个人简历。
 
 ## 个人信息
 
@@ -18,9 +20,9 @@
 
 **Email**：[jaikydota@163.com](mailto:jaikydota@163.com)
 
-**博客**：https://github.com/livoras/blog/issues
+**博客**：http://blog.csdn.net/jaikydota163
 
-**github**：https://github.com/livoras
+**github**：https://github.com/jaikydota
 
 
 ## 自我简介
