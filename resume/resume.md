@@ -8,6 +8,8 @@
 - 博客地址：http://blog.csdn.net/jaikydota163 （因发布原创高质量blog获CSDN认证“博客专家”）
 - Github：https://github.com/jaikydota （热爱生活，热爱开源，star有限）
 
+[百度](http://www.baidu.com){:target="_blank"}
+
 ## 个人信息
 
 **姓名**：欧杰
