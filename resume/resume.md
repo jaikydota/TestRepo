@@ -1,14 +1,12 @@
 # 欧杰的个人简历
 
-<img src="https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png" width = "160" height = "160" alt="信息" align=center />
+<img src="https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png" width = "160" height = "160" alt="信息"/>
 
 欧杰的个人简历。
 
-
 - 博客地址：http://blog.csdn.net/jaikydota163 （因发布原创高质量blog获CSDN认证“博客专家”）
 - Github：https://github.com/jaikydota （热爱生活，热爱开源，star有限）
-
-[百度](http://www.baidu.com){:target="_blank"}
+<a href="https://baidu.com" target="_blank">百度</a>
 
 ## 个人信息
 
