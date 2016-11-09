@@ -30,7 +30,7 @@
 
 ## 自我简介
 
-能独立开发完成中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端开发等。
+能独立开发完成中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
 
 2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit。精通Android项目开发模式，如MVP和MVVM。
 
@@ -74,10 +74,13 @@ Virtual-DOM 算法的一个实现。
 
 
 ## 个人经历
-* 2013年5月-2013年10月：做为队长带队参与“移动互联技术应用开发大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。[获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E6%99%BA%E8%83%BD%E5%AE%89%E9%98%B2%E8%8E%B7%E5%A5%96.jpg)
-* 2014年6月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录[获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/ACM.JPG)。
+* 2013年12月-2014年6月：做为队长带队参与“移动互联技术应用开发大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。[获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E6%99%BA%E8%83%BD%E5%AE%89%E9%98%B2%E8%8E%B7%E5%A5%96.jpg)
+* 2014年7月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录[获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/ACM.JPG)。
 * 2014年10月-2015年4月：学校内推入职北京“世界大学城”，因在移动开发上能力突出，主动承担了“世界大学城”手机客户端的研发任务，作为主程进行“舍生忘死”的数月开发，最后项目开发十分成功，入职4月便被公司破格提拔为移动开发部副总监。
 * 2014年12月：学分绩点位列全系第一，荣获国家奖学金[获奖图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91.jpg)。
 * 2015年9月：因成绩优异，被保送至吉首大学读本，又因为家庭的原因，便提出辞职深造。
-* 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代，后面又让我新PC客户端的研发任务，半工就读。
+* 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代以及PC即时通讯客户端的开发，半工就读。[离职证明](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E5%AD%A6%E4%BF%A1%E7%BD%91.png)
 * 2016年11月，本科实习期到了！可以叫我实习生，但我有不输于任何Android开发人员的研发能力！（目前暂未毕业，本科毕业生需要到2017年6月，学历“学信网”可查）[学历图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/%E5%AD%A6%E4%BF%A1%E7%BD%91.png)
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
