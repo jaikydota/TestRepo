@@ -1,6 +1,6 @@
 # 说明
 
-![img](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png)
+<img src="https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png" width = "160" height = "160" alt="信息" align=center />
 
 欧杰的个人简历。
 
