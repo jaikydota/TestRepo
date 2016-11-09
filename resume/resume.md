@@ -28,13 +28,13 @@
 
 ## 自我简介
 
-能独立开发中大型安卓APP，熟悉并能协助开发整个项目的其他流程，2年工作经验，4年项目开发经验。
+能独立开发中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端开发等。
 
-有4年Web开发经验，熟练掌握Web前后端技术，能独立开发前后端完成一个Web Application。能独立开发一个前端框架，并且热衷于开源项目。
+2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit。精通Android项目开发模式，如MVP和MVVM。
 
-拥有超强的学习能力和较强的团队合作能力，熟悉多种编程语言，按熟练程度：Android, Java, Java Web, C#, .NET, C++, 前端开发等。
+拥有超强的学习能力和较强的团队合作能力，熟悉多种编程语言，按精通程度：Android, Java, Java Web, C#, .NET, U3D, C/C++, 前端等。
 
-富有极客精神，热爱计算机和热衷新技术，闲暇时间已自学U3D游戏引擎和VR开发相关技术：http://blog.csdn.net/column/details/13430.html
+富有极客精神，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR开发相关技术：http://blog.csdn.net/column/details/13430.html
 
 
 ## 工作履历
@@ -48,7 +48,7 @@
 * 熟练使用JavaScript开发程序，了解原生JavaScript以及框架和类库的使用。有较大型前端SPA的架构经验（BackboneJS | KnockoutJS | Angular）。
 * 熟练掌握NodeJS相关开发。
 
-## 作品
+## 项目履历
 
 ### [simle-virtual-dom](https://github.com/livoras/simple-virtual-dom)
 Virtual-DOM 算法的一个实现。
