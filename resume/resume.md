@@ -4,7 +4,7 @@
 
 欧杰的个人简历。
 
-- 博客地址：http://blog.csdn.net/jaikydota163 （因发布原创高质量blog获CSDN认证“博客专家”）
+- 博客地址：http://blog.csdn.net/jaikydota163 （获CSDN认证“博客专家”）
 - Github：https://github.com/jaikydota （热爱生活，热爱开源）
 
 ## 个人信息
