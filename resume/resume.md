@@ -47,8 +47,8 @@
 
 ## 项目履历
 
-### [simle-virtual-dom](https://github.com/livoras/simple-virtual-dom)
-Virtual-DOM 算法的一个实现。
+### 2014年12月 ~ 2015年4月 [世界大学城手机客户端]
+因在大学有多个移动项目的开发经验，入职一月便主动承担了“世界大学城手机客户端”的研发任务，作为主程，设计了整个移动端架构和
 
 #### [兔展](http://www.rabbitpre.com/)
 项目网站：http://www.rabbitpre.com/
