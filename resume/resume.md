@@ -30,9 +30,9 @@
 
 ## 自我简介
 
-能独立开发完成中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
+能独立设计开发中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
 
-2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit。精通Android开发架构模式，如MVP和MVVM。
+2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit等。精通Android开发架构模式，如MVP和MVVM。
 
 拥有超强的学习能力和较强的团队合作能力，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, Javascript等。
 
@@ -41,42 +41,42 @@
 
 ## 工作履历
 * 2014年10月-2016年11月 北京禾田雨橡互联网科技有限公司 「 [世界大学城](http://www.worlduc.com/) 」
-* 任职：移动开发部副总监（目前已离职）
+* 任职：移动开发部副总监（目前已离职） 
 * 职责：负责“世界大学城”手机客户端的研发、维护及功能迭代，另负责“世界大学城”PC客户端的开发任务。
 
 
 ## 项目履历
 
 ### 2014年12月 ~ 2015年3月 [世界大学城手机客户端]
- - 因在大学有多个移动项目的开发经验，入职一月便主动承担了“世界大学城”手机客户端的研发任务，参与设计了整个移动端架构和开发流程。作为主程，对Android端进行先行开发，与团队一起用时3个月完美完成开发任务，因在整个项目开发过程表现尤为突出，入职4月便被破格提拔为移动开发部副总监。
- - 开发架构模式：MVP；主要用到框架：okhttp，rxJava，UIL，Glide等；P2P视频解决方案：Android NDK+Forcetv；消息推送：自建即时通讯服务器。
+ - 因在大学期间有多个移动项目的开发经验，入职一月便主动承担了“世界大学城”手机客户端的研发任务，参与设计了整个移动端架构和开发流程。作为主程，对Android端进行先行开发，与团队一起用时3个月完美完成任务，因在整个项目开发过程中表现尤为突出，入职4月便被破格提拔为移动开发部副总监。
+ - 开发架构模式：MVP；主要应用框架：okhttp，rxJava，UIL，Glide等；P2P视频解决方案：Android NDK+Forcetv；消息推送：自建即时通讯服务器。
  - APK下载地址： [官网下载](http://app.worlduc.com/)  或者： [点击Download](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/WorlducAndroid3.0.apk)
- - APP登录帐号： [503990035@qq.com lyy123]  [871850246@worlduc.com 930612] 
+ - APP登录帐号： [503990035@qq.com  lyy123]  [871850246@worlduc.com  930612] 
 
 ### 2015年2月 ~ 2015年4月 [世界大学城即时通讯集成]
- - 原因：为服务于“世界大学城”五百万付费用户，提供基本的聊天，语言，视频等即时通讯功能，因为以前有研究过XMPP即时通讯协议，同时因为不想在客户端依赖第三方消息推送（极光，百度, 蝴蝶等），我向公司提出了集成即时通讯的方案，通过后率先将此功能集成在Android手机客户端中。
- - 方案：即时通讯方案：XMPP+Openfire；集群服务器：CentOS 6.5；图片录音传输方案：BASE64+HTTP；音视频传输方案：Red5。
+ - 原因：为服务于“世界大学城”五百万付费用户，使用我们的教育产品的同时为师生提供基本的聊天，语言，视频等即时通讯功能。因为曾经研究过XMPP即时通讯协议，同时不想在客户端中依赖第三方消息推送（极光，百度, 蝴蝶等），我向公司提出了集成即时通讯的方案，通过后率先将此功能集成在Android手机客户端中。
+ - 方案：即时通讯方案：XMPP+Openfire；集群服务器：CentOS 6.5；图片录音传输方案：XMPP+HTTP；音视频传输方案：Red5。
  - 结果：即时通讯最高同时在线用户50W+，最大消息并发：20W+。
 
-#### [Saber](https://github.com/livoras/saber)
-项目地址：https://github.com/livoras/saber
+### 2016年5月 ~ 2016年9月 [世界大学城PC客户端]
+ - 原因：公司为扩充产品线，同时为更方便桌面用户能使用世界大学城的产品服务，如快速登录Web端（类QQ——QQ空间，阿里旺旺——淘宝），使用即时通讯等。委任正在就读深造的我作为主程，开发世界大学城PC客户端。
+ - 方案：UI布局选用：JavaFX；即时通讯方案：XMPP+Openfire。快速登录：Cookies + Token加解密免登录
+ - 结果：产品已经在内侧阶段，即将上线。 「 [软件截图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/worlducdesktop.png) 」
 
-基于KnockoutJS、jQuery、RequireJS构建的一个前端框架，使得前端开发组件化，利用事件机制解耦组件，独立开发和测试。所参与的创业项目中最终的架构就是采用了这个框架。
-
-#### [Backbone.Composition](https://github.com/livoras/backbone.Composite)
-项目地址：https://github.com/livoras/backbone.Composite
-
-创业项目中产生的第一个作品，BackboneJS插件，用于解决大型应用中，BackboneJS多层视图嵌套问题。。
-
-#### [StereoJS](https://github.com/livoras/stereojs)
-项目地址：https://github.com/livoras/stereojs
-
-小型类库，用于解决同浏览器中不同tabs之间的通信问题。
+### 2013年12月 ~ 2014年6月 [智能家居安防系统]
+ - 原因：公司为扩充产品线，同时为更方便桌面用户能使用世界大学城的产品服务，如快速登录Web端（类QQ，阿里旺旺），即时通讯等。委任正在就读深造的我作为主程，开发世界大学城PC客户端。
+ - 方案：UI布局选用：JavaFX；即时通讯方案：XMPP+Openfire。快速登录：
+ - 结果：产品已经在内侧阶段，即将上线。 「 [应用截图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/worlducdesktop.png) 」
+ 
+### 2014年7月 ~ 2014年10月 [世界大学城PC客户端]
+ - 原因：公司为扩充产品线，同时为更方便桌面用户能使用世界大学城的产品服务，如快速登录Web端（类QQ，阿里旺旺），即时通讯等。委任正在就读深造的我作为主程，开发世界大学城PC客户端。
+ - 方案：UI布局选用：JavaFX；即时通讯方案：XMPP+Openfire。快速登录：
+ - 结果：产品已经在内侧阶段，即将上线。 「 [应用截图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/worlducdesktop.png) 」
 
 
 ## 个人经历
-* 2012年9月进入长沙民政学院，大专软件开发专业。
-* 2013年12月-2014年6月：做为队长带队参与“移动互联技术应用开发大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。「 [获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/MobileThings.jpg) 」
+* 2012年9月：进入长沙民政学院，大专，因热爱计算机选择了软件开发专业。
+* 2013年12月-2014年6月：作为队长带队参与“移动互联技术应用开发大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。「 [获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/MobileThings.jpg) 」
 * 2014年7月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录。「 [获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/ACM.JPG) 」
 * 2014年10月-2015年4月：学校内推入职北京“世界大学城”，因在移动开发上能力突出，主动承担了“世界大学城”手机客户端的研发任务，作为主程进行“废寝忘食”的数月开发任务，最终项目开发十分成功，入职4月便被公司破格提拔为移动开发部副总监。
 * 2014年12月：学分绩点位列全系第一，荣获国家奖学金。「 [获奖图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/scholarship.jpg) 」
