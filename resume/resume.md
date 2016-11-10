@@ -50,8 +50,8 @@
 ### 2014年12月 ~ 2015年3月 [世界大学城手机客户端]
  - 因在大学期间有多个移动项目的开发经验，入职一月便主动承担了“世界大学城”手机客户端的研发任务，参与设计了整个移动端架构和开发流程。作为主程，对Android端进行先行开发，与团队一起用时3个月完美完成任务，因在整个项目开发过程中表现尤为突出，入职4月便被破格提拔为移动开发部副总监。
  - 开发架构模式：MVP；主要应用框架：okhttp，rxJava，UIL，Glide等；P2P视频解决方案：Android NDK+Forcetv；消息推送：自建即时通讯服务器。
- - APK下载地址： [官网下载](http://app.worlduc.com/)  或者： [点击Download](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/WorlducAndroid3.0.apk)
- - APP登录帐号： [503990035@qq.com  lyy123]  [871850246@worlduc.com  930612] 
+ - APK下载地址：「 [官网下载](http://app.worlduc.com/) 」  或者：「 [点击Download](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/WorlducAndroid3.0.apk) 」
+ - APP登录帐号：「503990035@qq.com  lyy123」  「871850246@worlduc.com  930612」
 
 ### 2015年2月 ~ 2015年4月 [XMPP即时通讯集成]
  - 原因：为服务于“世界大学城”五百万付费用户，使用我们的教育产品的同时为师生提供基本的聊天，语言，视频等即时通讯功能。因为曾经研究过XMPP即时通讯协议，同时不想在客户端中依赖第三方消息推送（极光，百度, 蝴蝶等），我向公司提出了集成即时通讯的方案，通过后率先将此功能集成在Android手机客户端中。
