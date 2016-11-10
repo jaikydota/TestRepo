@@ -32,32 +32,31 @@
 
 能独立开发完成中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
 
-2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit。精通Android项目开发模式，如MVP和MVVM。
+2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit。精通Android开发架构模式，如MVP和MVVM。
 
-拥有超强的学习能力和较强的团队合作能力，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, U3D, Javascript等。
+拥有超强的学习能力和较强的团队合作能力，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, Javascript等。
 
 富有极客精神，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR/AR开发相关技术：http://blog.csdn.net/column/details/13430.html
 
 
 ## 工作履历
-* 2014年10月-2016年11月 北京禾田雨橡互联网科技有限公司
+* 2014年10月-2016年11月 北京禾田雨橡互联网科技有限公司 「 [世界大学城](http://www.worlduc.com/) 」
 * 任职：移动开发部副总监（目前已离职）
 * 职责：负责“世界大学城”手机客户端的研发、维护及功能迭代，另负责“世界大学城”PC客户端的开发任务。
 
 
 ## 项目履历
 
-### 2014年12月 ~ 2015年4月 [世界大学城手机客户端]
-因在大学有多个移动项目的开发经验，入职一月便主动承担了“世界大学城手机客户端”的研发任务，作为主程，参与设计了整个移动端架构和开发流程。
-APK下载地址： [官网链接](http://app.worlduc.com/) 或者： [点击Download](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/WorlducAndroid3.0.apk)
-<br> APP测试登录帐号： 503990035@qq.com lyy123  871850246@worlduc.com 930612 
+### 2014年12月 ~ 2015年3月 [世界大学城手机客户端]
+ - 因在大学有多个移动项目的开发经验，入职一月便主动承担了“世界大学城”手机客户端的研发任务，参与设计了整个移动端架构和开发流程。作为主程，对Android端进行先行开发，与团队一起用时3个月完美完成开发任务，因在整个项目开发过程表现尤为突出，入职4月便被破格提拔为移动开发部副总监。
+ - 开发架构模式：MVP；主要用到框架：okhttp，rxJava，UIL，Glide等；P2P视频解决方案：Android NDK+Forcetv；消息推送：自建即时通讯服务器。
+ - APK下载地址： [官网下载](http://app.worlduc.com/)  或者： [点击Download](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/WorlducAndroid3.0.apk)
+ - APP登录帐号： [503990035@qq.com lyy123]  [871850246@worlduc.com 930612] 
 
-#### [兔展](http://www.rabbitpre.com/)
-项目网站：http://www.rabbitpre.com/
-
-移动端HTML5展示应用生成器，通过简单的交互操作就可以生成HTML5展示页面，用于微信等移动页面展示。
-
-本人完成了此项目的基础架构设计和第一个版本的实现。
+### 2015年2月 ~ 2015年4月 [世界大学城即时通讯集成]
+ - 原因：为服务于“世界大学城”五百万付费用户，提供基本的聊天，语言，视频等即时通讯功能，因为以前有研究过XMPP即时通讯协议，同时因为不想在客户端依赖第三方消息推送（极光，百度, 蝴蝶等），我向公司提出了集成即时通讯的方案，通过后率先将此功能集成在Android手机客户端中。
+ - 方案：即时通讯方案：XMPP+Openfire；集群服务器：CentOS 6.5；图片录音传输方案：BASE64+HTTP；音视频传输方案：Red5。
+ - 结果：即时通讯最高同时在线用户50W+，最大消息并发：20W+。
 
 #### [Saber](https://github.com/livoras/saber)
 项目地址：https://github.com/livoras/saber
