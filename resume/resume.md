@@ -83,7 +83,7 @@
 * 2014年12月：学分绩点位列全系第一，荣获国家奖学金。「 [获奖图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/scholarship.jpg) 」
 * 2015年9月：因在校成绩优异，被保送至吉首大学读本，又因家庭的原因，便提出辞职深造，就读软件工程专业。
 * 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代以及PC客户端的开发任务，半工就读。「 [离职证明](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/prove.jpg) 」
-* 2016年11月，本科进入实习期，又要开始一段新的职业之旅，虽然表面上我是实习生，但我有不输于任何Android开发人员的研发能力！（目前暂未毕业，本科毕业证需要到2017年6月，学历“学信网”可查）。「 [学信网图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/credit.png) 」
+* 2016年11月，本科进入实习期，又要开始一段新的职业之旅，虽然表面上我是实习生，但我有不输于任何Android开发人员的研发能力，期待能有机会和您共事。（目前暂未毕业，本科毕业证需要到2017年6月，学历“学信网”可查）。「 [学信网图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/credit.png) 」
 
 
 # 致谢
