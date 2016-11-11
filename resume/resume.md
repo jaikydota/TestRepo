@@ -50,7 +50,7 @@
 ### 2014年12月 ~ 2015年3月 [世界大学城手机客户端]
  - 因在大学期间有多个移动项目的开发经验，入职一月便主动承担了“世界大学城”手机客户端的研发任务，参与设计了整个移动端架构和开发流程。作为主程，对Android端进行先行开发，与团队一起用时3个月完美完成任务，因在整个项目开发过程中表现尤为突出，入职4月便被破格提拔为移动开发部副总监。
  - 开发架构模式：MVP；主要应用框架：okhttp，rxJava，UIL，Glide等；P2P视频解决方案：Android NDK+Forcetv；消息推送：自建即时通讯服务器。
- - APK下载地址：「 [官网下载](http://app.worlduc.com/) 」  或者：「 [点击Download](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/WorlducAndroid3.0.apk) 」
+ - APK下载地址：「 [点击下载](http://app.worlduc.com/FileSystem/18/318441/608651/86a49111da21402e816bb1c2e9543a44.apk) 」  或者：「 [官网](http://app.worlduc.com/) 」
  - APP登录帐号：「503990035@qq.com  lyy123」  「871850246@worlduc.com  930612」
 
 ### 2015年2月 ~ 2015年4月 [XMPP即时通讯集成]
@@ -61,7 +61,7 @@
 ### 2016年5月 ~ 2016年9月 [世界大学城PC客户端]
  - 原因：公司为扩充产品线，同时为更方便桌面用户能使用世界大学城的产品服务，如快速登录Web端（类QQ——QQ空间，阿里旺旺——淘宝），通过即时通讯聊天等。任命我作为主程，开发世界大学城PC客户端。
  - 方案：UI布局选用：JavaFX；即时通讯方案：XMPP+Openfire；快速登录：Token加解密免登录。
- - 结果：产品已经在内侧阶段，即将上线。 「 [软件截图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/worlducdesktop.png) 」
+ - 结果：产品已经在内侧阶段，即将上线。 「 [软件截图](http://app.worlduc.com/FileSystem/18/318441/608651/4d3ce6820f3e416d90a29262ee71675d.png) 」
 
 ### 2013年12月 ~ 2014年6月 [智能家居安防系统]
  - “移动互联技术应用大赛”参赛项目，一个移动物联网项目，主要是布置家居安防系统，使用多种传感器设备，然后通过手机控制家居安防，如老人看护安防，智慧家居，火灾水灾监控等，我主要负责软件部分的开发工作。
@@ -77,13 +77,13 @@
 
 ## 个人经历
 * 2012年9月：进入长沙民政学院，大专，因热爱计算机选择了软件开发专业。
-* 2013年12月-2014年6月：作为队长带队参与“移动互联技术应用大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。「 [获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/MobileThings.jpg) 」
-* 2014年7月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录。「 [获奖图(中1)](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/ACM.JPG) 」
+* 2013年12月-2014年6月：作为队长带队参与“移动互联技术应用大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。「 [获奖图(中1)](http://app.worlduc.com/FileSystem/18/318441/608651/d71feeaef9b244b4a3fc28d6a8465d97.jpg) 」
+* 2014年7月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录。「 [获奖图(中1)](http://app.worlduc.com/FileSystem/18/318441/608651/95e7287a16ff4c85b807047994d5f6a0.JPG) 」
 * 2014年10月-2015年4月：学校内推入职北京“世界大学城”，因在移动开发上能力突出，主动承担了“世界大学城”手机客户端的研发任务，作为主程进行“废寝忘食”的数月开发，最终项目开发十分成功，入职4月便被公司破格提拔为移动开发部副总监。
-* 2014年12月：学分绩点位列全系第一，荣获国家奖学金。「 [获奖图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/scholarship.jpg) 」
+* 2014年12月：学分绩点位列全系第一，荣获国家奖学金。「 [获奖图](http://app.worlduc.com/FileSystem/18/318441/608651/60920f63fe7447dbb4970ff173df147b.jpg) 」
 * 2015年9月：因在校成绩优异，被保送至吉首大学读本，又因家庭的原因，便提出辞职深造，就读软件工程专业。
-* 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代以及PC客户端的开发任务，半工就读。「 [离职证明](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/prove.jpg) 」
-* 2016年11月，本科进入实习期，又要开始一段新的职业之旅，虽然表面上我是实习生，但我有不输于任何Android开发人员的研发能力，期待能有机会和您共事。（目前暂未毕业，本科毕业证需要到2017年6月，学历“学信网”可查）。「 [学信网图](https://github.com/jaikydota/TestRepo/blob/master/resume/resource/credit.png) 」
+* 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代以及PC客户端的开发任务，半工就读。「 [离职证明](http://app.worlduc.com/FileSystem/18/318441/608651/d974c3229ce94ef69fd2b4f825ce18a3.jpg) 」
+* 2016年11月，本科进入实习期，又要开始一段新的职业之旅，虽然表面上我是实习生，但我有不输于任何Android开发人员的研发能力，期待能有机会和您共事。（目前暂未毕业，本科毕业证需要到2017年6月，学历“学信网”可查）。「 [学信网图](http://app.worlduc.com/FileSystem/18/318441/608651/ce3b416e279c459293c305f6cfcb70de.png) 」
 
 
 # 致谢
