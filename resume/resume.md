@@ -1,7 +1,7 @@
 # 欧杰的个人简历
 
 <img src="https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png" width = "160" height = "160" alt="个人图片"/>
-<br>简历在线查看：https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md
+<br>简历在线查阅：[https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
 
 - 博客地址： [http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
 - Github：[https://github.com/jaikydota](https://github.com/jaikydota) （热爱生活，积极开源）
