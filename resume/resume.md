@@ -22,7 +22,7 @@
 
 **微信号**：jaikydota
 
-**期待薪资**：税前月薪20k左右，特别喜欢的公司可例外
+**期待薪资**：税前月薪15~20k，特别喜欢的公司可例外
 
 **Email**：[jaikydota@163.com](mailto:jaikydota@163.com)
 
