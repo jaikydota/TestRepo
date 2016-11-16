@@ -5,7 +5,7 @@
 欧杰的个人简历。
 
 - 博客地址：http://blog.csdn.net/jaikydota163 （获CSDN认证“博客专家”）
-- Github：https://github.com/jaikydota （热爱生活，热爱开源）
+- Github：https://github.com/jaikydota （热爱生活，积极开源）
 
 ## 个人信息
 
@@ -34,7 +34,7 @@
 
 2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit等。精通Android开发架构模式，如MVP和MVVM。
 
-拥有超强的学习能力和较强的团队合作能力，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, 前端等。
+拥有超强的学习能力和较强的团队合作能力，多次作为项目Team Leader，设计开发项目的整个流程。能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, 前端等。
 
 富有极客精神，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR/AR开发相关技术：http://blog.csdn.net/column/details/13430.html
 
