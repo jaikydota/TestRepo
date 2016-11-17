@@ -1,6 +1,5 @@
 # 欧杰的个人简历
 
-<img src="https://github.com/jaikydota/TestRepo/blob/master/resume/resource/my.png" width = "160" height = "160" alt="个人图片"/>
 <br>简历在线查阅：[Github简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
 
 - 博客地址： [http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
@@ -29,11 +28,11 @@
 
 ## 自我简介
 
-能独立开发中大型Android Application，具有软件设计和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
+能独立开发中大型Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
 
 2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit+picasso+gson等。精通Android开发架构模式，如MVP和MVVM。
 
-拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，并多次作为团队Team Leader，设计开发项目的架构和流程。工作积极主动，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, C/C++等。
+拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，曾多次作为团队Team Leader，设计开发项目的架构和流程。工作积极主动，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, C/C++等。
 
 富有极客精神，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR/AR开发相关技术：[http://blog.csdn.net/column/details/13430.html](http://blog.csdn.net/column/details/13430.html)
 
