@@ -29,11 +29,11 @@
 
 ## 自我简介
 
-能独立设计开发中大型Android App，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
+能独立开发中大型Android Application，具有软件设计和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
 
-2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit等。精通Android开发架构模式，如MVP和MVVM。
+2年工作经验，4年项目开发经验，熟练使用Android应用开发框架，如rxjava+retrofit+picasso+gson等。精通Android开发架构模式，如MVP和MVVM。
 
-拥有非常强的学习能力和较强的团队合作能力，多次作为项目Team Leader，设计开发项目的整个流程。能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, 前端等。
+拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，并多次作为Team Leader，设计开发项目的整个流程。工作积极主动，能吃苦能加班，熟悉多种编程语言，按精通程度：Android, Java/Java Web, C#/.NET, C/C++等。
 
 富有极客精神，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR/AR开发相关技术：[http://blog.csdn.net/column/details/13430.html](http://blog.csdn.net/column/details/13430.html)
 
@@ -52,7 +52,7 @@
  - APK下载地址：「 [点击下载](http://app.worlduc.com/FileSystem/18/318441/608651/86a49111da21402e816bb1c2e9543a44.apk) 」
  - APP登录帐号：「503990035@qq.com  lyy123」  「871850246@worlduc.com  930612」
 
-### 2015年2月 ~ 2015年4月 [XMPP即时通讯集成]
+### 2015年2月 ~ 2015年5月 [XMPP即时通讯集成]
  - 原因：为服务于“世界大学城”五百万付费用户，使用我们的教育产品的同时为师生提供基本的聊天，语言，视频等即时通讯功能。因为曾经研究过XMPP即时通讯协议，同时不想在客户端中依赖第三方消息推送（极光，百度，蝴蝶等），我向公司提出了集成即时通讯的方案，通过后率先将此功能集成在Android手机客户端中。
  - 方案：即时通讯方案：XMPP+Openfire；集群服务器：CentOS 6.5；图片录音传输方案：XMPP+HTTP；音视频传输方案：Red5。
  - 结果：即时通讯最高同时在线用户50W+，最大消息并发：20W+。
