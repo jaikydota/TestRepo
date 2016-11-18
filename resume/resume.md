@@ -2,7 +2,7 @@
 Android开发工程师求职简历，简历在线查阅：[Github简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
 
 - 博客地址： [http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
-- Github：[https://github.com/jaikydota](https://github.com/jaikydota) （逐渐开始投入开源社区）
+- Github：[https://github.com/jaikydota](https://github.com/jaikydota) （开始积极投入开源社区）
 
 ## 个人信息
 
@@ -81,7 +81,7 @@ Android开发工程师求职简历，简历在线查阅：[Github简历查阅](h
 * 2012年9月：进入长沙民政学院，大专，因热爱计算机选择了软件开发专业。
 * 2013年12月-2014年6月：作为队长带队参与“移动互联技术应用大赛”，参赛项目如上“智能家居安防系统”。荣获湖南省一等奖，全国二等奖。「 [获奖图(中1)](http://app.worlduc.com/FileSystem/18/318441/608651/d71feeaef9b244b4a3fc28d6a8465d97.jpg) 」
 * 2014年7月-2014年10月：作为队长带队参与湖南省ACM大学生程序设计竞赛，荣获一等奖，创造了我们学校在这个赛项的新记录。「 [获奖图(中1)](http://app.worlduc.com/FileSystem/18/318441/608651/95e7287a16ff4c85b807047994d5f6a0.JPG) 」
-* 2014年11月-2015年4月：学校内推入职北京“世界大学城”，因在移动开发上能力突出，主动承担了“世界大学城”手机客户端的研发任务，，最终项目开发十分成功，入职4月便被公司破格提拔为移动开发部副总监。
+* 2014年11月-2015年4月：学校内推入职北京“世界大学城”，因在移动开发上能力突出，主动承担了“世界大学城”手机客户端的研发任务，入职4月便被公司破格提拔为移动开发部副总监。
 * 2014年12月：学分绩点位列全系第一，荣获国家奖学金。「 [获奖图](http://app.worlduc.com/FileSystem/18/318441/608651/60920f63fe7447dbb4970ff173df147b.jpg) 」
 * 2015年9月：因在校成绩优异，被保送至吉首大学读本，又因家庭的原因，便提出辞职深造，就读软件工程专业。
 * 2015年10月-2016年10月：公司念我能力尚可，委任我继续对“世界大学城”Android客户端维护和功能迭代以及PC客户端的开发任务，半工就读。「 [离职证明](http://app.worlduc.com/FileSystem/18/318441/608651/d974c3229ce94ef69fd2b4f825ce18a3.jpg) 」
