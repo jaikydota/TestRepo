@@ -1,14 +1,12 @@
 # 欧杰的个人简历
 Android开发工程师求职简历，简历在线查阅：[Github简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
 
-- 博客地址： [http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
+- 博客地址：[http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
 - Github：[https://github.com/jaikydota](https://github.com/jaikydota) （开始积极投入开源社区）
 
 ## 个人信息
 
-**姓名**：欧杰
-
-**其他信息**：男/1993
+**基本信息**：欧杰/男/1993
 
 **工作年限**：2年
 
