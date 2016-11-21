@@ -20,8 +20,6 @@ Android开发工程师求职简历，简历在线查阅：[Github简历查阅](h
 
 **微信号**：jaikydota
 
-**期待薪资**：税前月薪15K~20k
-
 **Email**：[jaikydota@163.com](mailto:jaikydota@163.com)
 
 
