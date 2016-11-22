@@ -5,7 +5,6 @@ Android应用/VR开发工程师，简历在线查阅：[Github简历查阅](http
 - Github：[https://github.com/jaikydota](https://github.com/jaikydota) （开始积极投入开源社区）
 
 ## 个人信息
-
 **基本信息**：欧杰/男/1993
 
 **工作年限**：2年
@@ -20,7 +19,6 @@ Android应用/VR开发工程师，简历在线查阅：[Github简历查阅](http
 
 
 ## 自我简介
-
 能独立开发商用级Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。2年工作经验，4年Android开发经验，熟练使用Android应用开发框架，精通Android开发架构模式，如MVP和MVVM。
 
 拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，曾多次作为团队Team Leader，设计开发项目的架构和流程。工作积极主动，能吃苦能加班，熟悉其他编程语言：Java/Java Web, C#/.NET, C/C++, 前端等。
