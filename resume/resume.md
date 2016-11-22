@@ -19,9 +19,9 @@ Android开发工程师（应用/VR方向），简历在线查阅：[GitHub简历
 
 
 ## 自我简介
-能独立开发商用级Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。3年Android开发经验，4年java开发经验，熟练使用Android应用开发框架，如retrofit+picasso+rxjava+gson等。精通Android开发架构模式，如MVP和MVVM。
+能独立开发商用级Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。3年Android项目开发经验，4年java开发经验，熟练使用Android应用开发框架，如retrofit+picasso+rxjava+gson等。精通Android开发架构模式，如MVP和MVVM。
 
-拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，曾多次作为团队Team Leader，设计开发项目的架构和流程。工作积极主动，能吃苦能加班，熟悉其他编程语言：Java/Java Web, C#/.NET, C/C++, 前端等。
+拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，曾多次作为团队Team Leader，设计开发项目的架构和流程。工作积极主动，能吃苦能加班，熟悉其他编程语言：Java/Java Web, C#/.NET, C/C++, 前端等，同时具备物联网和IM开发经验。
 
 富有极客精神，喜欢接受高强度和具有挑战性的任务，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和VR/AR开发相关技术：[http://blog.csdn.net/column/details/13430.html](http://blog.csdn.net/column/details/13430.html)
 
