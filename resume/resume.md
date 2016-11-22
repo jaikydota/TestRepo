@@ -1,8 +1,8 @@
 # 欧杰的个人简历
-Android开发工程师（应用/VR方向），简历在线查阅：[Github简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
+Android开发工程师（应用/VR方向），简历在线查阅：[GitHub简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
 
 - 博客地址：[http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
-- Github：[https://github.com/jaikydota](https://github.com/jaikydota) （开始积极投入开源社区）
+- GitHub：[https://github.com/jaikydota](https://github.com/jaikydota) （开始积极投入开源社区）
 
 ## 个人信息
 **基本信息**：欧杰/男/1993
