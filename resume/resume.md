@@ -21,7 +21,7 @@ Android应用开发工程师，简历在线查阅：[Github简历查阅](https:/
 
 ## 自我简介
 
-能独立开发中大型Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
+能独立开发商用级Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。
 
 2年工作经验，4年Android开发经验，熟练使用Android应用开发框架，如rxjava+retrofit+picasso+gson等。精通Android开发架构模式，如MVP和MVVM。
 
