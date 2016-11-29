@@ -31,15 +31,14 @@ Android开发工程师（应用/VR方向，后附VR项目），简历在线查�
 * 任职：移动开发部副总监
 * 职责：负责“世界大学城”手机客户端的研发、维护及功能迭代，另承担了“世界大学城”PC客户端IM模块的开发任务。
 
-## 个人作品
-### [VR骷髅射击]
- - 项目描述：一款教育软件客户端，集成了“世界大学城”所有教育产品服务及功能模块。
- - 开发情景：公司讨论研发客户端，决定使用“纯H5”技术作为客户端开发方案。纯H5方案在开发速度和跨平台性上有优势，但在性能和体验流畅度上不尽人意，产品正待流产，公司迫切需要更好的解决方案。正值本人刚入职，因在大学期间有多个移动项目的开发经验，便主动提出使用原生开发，于是承担了“世界大学城”手机客户端的研发任务。
- - 主要职责：参与设计了整个移动端架构和开发流程，全程负责Android端开发任务。
- - 结果：用时3个月完成1.0版本开发，并发布上线，因在整个项目开发过程中表现尤为突出，入职4月便被破格提拔为移动开发部副总监。
- - 开发架构模式：MVP；主要应用框架：okhttp，rxJava，UIL，Gson等；P2P视频解决方案：Android NDK+Forcetv；消息推送：自建即时通讯服务器。
- - APK下载地址：「 [点击下载](http://app.worlduc.com/FileSystem/18/318441/608651/86a49111da21402e816bb1c2e9543a44.apk) 」
- - APP登录帐号：「503990035@qq.com  lyy123」  「871850246@worlduc.com  930612」
+## 个人VR作品
+### [VR骷髅射击游戏]
+ - 项目描述：基于U3D和Cardboard开发的一款第一人称VR射击小游戏，类似“抢滩登陆战”。凭借兴趣爱好在自学VR的过程中顺手做的项目，并不断的在升级改进，主要用到的就是Unity的一些常规组件和GVR SDK，使用了GVR双眼摄像机和GVR API和一些基本的Unity API，模型来自于Asset Store。
+ - APK下载地址：「 [点击下载](https://raw.githubusercontent.com/jaikydota/TestRepo/master/resume/resource/ShootingSkeleton.apk) 」
+
+### [VR全景应用]
+ - 项目描述：基于Android Studio和GVR-Android-SDK做的一款Cardboard全景应用，主要内容是展现全景图和全景视频，或通过资源服务器实时获取全景资源并显示在设备上(参考“暴风魔镜”全景资源)。自己在边学边写VR blog时做的示例项目，供初学者或VR爱好者参考，具体功能可以下载APK到手机安装查看。
+ - APK下载地址：「 [点击下载](https://raw.githubusercontent.com/jaikydota/TestRepo/master/resume/resource/VRPanorama.apk) 」
 
 
 ## 项目履历
