@@ -1,8 +1,8 @@
 # 欧杰的个人简历
-Android开发工程师（应用/VR方向，后附VR项目），简历在线查阅：[GitHub简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
+Android开发工程师（应用/VR/物联网方向），简历在线查阅：[GitHub简历查阅](https://github.com/jaikydota/TestRepo/blob/master/resume/resume.md)
 
 - 博客地址：[http://blog.csdn.net/jaikydota163](http://blog.csdn.net/jaikydota163) （获CSDN认证“博客专家”）
-- GitHub：[https://github.com/jaikydota](https://github.com/jaikydota) （开始积极投入开源社区）
+- GitHub：[https://github.com/jaikydota](https://github.com/jaikydota) （积极投入开源社区）
 
 ## 个人信息
 **基本信息**：欧杰/男/1993
@@ -19,9 +19,9 @@ Android开发工程师（应用/VR方向，后附VR项目），简历在线查�
 
 
 ## 自我简介
-能独立开发商用级Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。3年Android项目开发经验，熟练使用Android应用开发框架和精通Android开发架构模式。
+能独立开发商用级Android Application，具有软件和架构设计能力，熟悉并能协助开发整个项目的其他流程，如前后端或接口开发等。3年Android项目开发经验，熟练使用各种Android应用开发框架和开发架构模式。
 
-拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，曾多次作为团队Team Leader，参与设计项目的架构和流程。工作积极主动，能吃苦勇于承担责任，熟悉其他编程语言：Java/Java Web, C#/.NET, C/C++, 前端等，同时具备物联网和IM开发经验。
+拥有非常强的学习能力和较强的团队合作能力，良好的团队合作精神和沟通能力，曾多次作为团队Team Leader，参与设计项目的架构和流程。工作积极主动，勇于承担责任，熟悉其他编程语言：Java/Java Web, C#/.NET, C/C++, 前端等，同时具备物联网和IM开发经验。
 
 富有极客精神，喜欢接受高强度和具有挑战性的任务，热爱IT行业和热衷新技术，闲暇时间已自学U3D游戏引擎和Android VR/AR开发相关技术：[http://blog.csdn.net/column/details/13430.html](http://blog.csdn.net/column/details/13430.html)
 
@@ -30,16 +30,6 @@ Android开发工程师（应用/VR方向，后附VR项目），简历在线查�
 * 2014年11月-2016年10月 北京禾田雨橡互联网科技有限公司
 * 任职：移动开发部副总监
 * 职责：负责“世界大学城”手机客户端的研发、维护及功能迭代，另承担了“世界大学城”PC客户端IM模块的开发任务。
-
-## 个人VR作品
-### [VR骷髅射击游戏]
- - 项目描述：基于U3D和Cardboard开发的一款第一人称VR射击小游戏，类似“抢滩登陆战”。凭借兴趣爱好在自学VR的过程中顺手做的项目，并不断的在升级改进，主要用到的就是Unity的一些常规组件和GVR SDK，使用了GVR双眼摄像机和GVR API和一些基本的Unity API，模型来自于Asset Store。
- - APK下载地址：「 [点击下载](https://raw.githubusercontent.com/jaikydota/TestRepo/master/resume/resource/ShootingSkeleton.apk) 」
-
-### [VR全景应用]
- - 项目描述：基于Android Studio和GVR-Android-SDK做的一款Cardboard全景应用，主要内容是展现全景图和全景视频，或通过资源服务器实时获取全景资源并显示在设备上(参考“暴风魔镜”全景资源)。自己在边学边写VR blog时做的示例项目，供初学者或VR爱好者参考，具体功能可以下载APK到手机安装查看。
- - APK下载地址：「 [点击下载](https://raw.githubusercontent.com/jaikydota/TestRepo/master/resume/resource/VRPanorama.apk) 」
-
 
 ## 项目履历
 ### 2014年12月 ~ 2016年10月 [世界大学城手机客户端]
@@ -64,9 +54,19 @@ Android开发工程师（应用/VR方向，后附VR项目），简历在线查�
  - 结果：参赛项目荣获湖南省一等奖，全国二等奖。 
 
 ### 2016年5月 ~ 2016年9月 [世界大学城PC客户端]
- - 项目描述：“世界大学城”PC客户端，集成了即时通讯服务（Android-iOS-PC多端即时通信），快速登录Web端和进入相关产品服务（类 QQ-QQ空间，阿里旺旺-淘宝）。
+ - 项目描述：“世界大学城”PC客户端，集成了即时通讯服务（Android-iOS-PC多端即时通信），快速登录Web端和进入相关产品服务（类 QQ-QQ空间，阿里旺旺-淘宝）。即时通讯方案：XMPP+Openfire+Smack；快速登录：Token加解密免登录。
  - 主要职责：主要负责即时通讯模块的开发。
  - 结果：产品已经在内测阶段，即将上线。 「 [软件截图](http://app.worlduc.com/FileSystem/18/318441/608651/4d3ce6820f3e416d90a29262ee71675d.png) 」 
+
+## 个人作品
+### [Android-ImagesPicker](https://github.com/jaikydota/Android-ImagesPickers)
+ - 框架描述：是一个集图片选择（单选/多选）、拍照、裁剪、图片预览、图片显示容器的Android图片应用框架。使用方便，开发者仅需要几行的代码就可以集成Android整套图片“选裁显删”功能，可以通过设置参数选择自己想要使用的功能。
+
+### [VR个人作品]
+ - 守卫防线：基于U3D和Cardboard开发的一款第一人称VR射击游戏，类似“抢滩登陆战”。凭借兴趣爱好在自学VR的过程中顺手做的项目，并不断的在升级改进，主要用到的就是Unity的一些常规组件和GVR SDK，使用了部分GVR的API，模型来自于Asset Store。
+ - APK下载地址：「 [点击下载](https://raw.githubusercontent.com/jaikydota/TestRepo/master/resume/resource/ShootingSkeleton.apk) 」
+ - VR全景应用：基于Android Studio和GVR-Android-SDK做的一款Cardboard全景应用，主要内容是展现全景图和全景视频，或通过资源服务器实时获取全景资源并显示在设备上(参考“暴风魔镜”全景资源)。自己在边学边写VR blog时做的示例项目，供初学者或VR爱好者参考，具体功能可以下载APK到手机安装查看。
+ - APK下载地址：「 [点击下载](https://raw.githubusercontent.com/jaikydota/TestRepo/master/resume/resource/VRPanorama.apk) 」
 
 
 ## 个人经历
@@ -77,8 +77,7 @@ Android开发工程师（应用/VR方向，后附VR项目），简历在线查�
 * 2014年12月：学分绩点位列全系第一，荣获国家奖学金。「 [获奖图](http://app.worlduc.com/FileSystem/18/318441/608651/60920f63fe7447dbb4970ff173df147b.jpg) 」
 * 2015年9月：因在校成绩优异，被保送至吉首大学读本，又因家庭的原因，便提出辞职深造，就读软件工程专业。
 * 2015年10月-2016年10月：公司念我能力尚可，委托我继续对“世界大学城”Android客户端维护和功能迭代以及PC客户端的开发任务，半工就读。「 [离职证明](http://app.worlduc.com/FileSystem/18/318441/608651/d974c3229ce94ef69fd2b4f825ce18a3.jpg) 」
-* 2016年11月，本科进入实习期，又要开始一段新的职业之旅，为了回家发展，推脱了原北京公司的诚意邀请。虽然作为本科毕业生的我是实习生，但我绝对有能力胜任贵公司的研发任务，希望能有机会接受挑战。
-
+* 2016年11月，本科进入实习期，又要开始一段新的职业之旅，为了回家发展，推脱了原北京公司的诚意邀请。虽然作为本科毕业生的我是实习生，但我绝对有能力胜任贵公司的研发任务，希望能有机会接受挑战。（）
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
